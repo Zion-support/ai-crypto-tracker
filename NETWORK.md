@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Crypto Tracker
 
-**ai-crypto-tracker** is part of the Zion Tech Group app network (630+ apps).
+Real-time cryptocurrency tracking, analysis, and predictive insights.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-crypto-arbitrage](https://github.com/Zion-support/ai-crypto-arbitrage) · [ai-arbitrage-finder](https://github.com/Zion-support/ai-arbitrage-finder) · [ai-blockchain-ai](https://github.com/Zion-support/ai-blockchain-ai) · [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention)
 
-## Related apps
-- [ai-crypto-arbitrage](https://github.com/Zion-support/ai-crypto-arbitrage) — Cross-exchange crypto arbitrage
-- [ai-blockchain-ai](https://github.com/Zion-support/ai-blockchain-ai) — Blockchain analytics and smart contract auditing
-- [ai-arbitrage-finder](https://github.com/Zion-support/ai-arbitrage-finder) — Arbitrage opportunity detection
-- [ai-chart-builder](https://github.com/Zion-support/ai-chart-builder) — Data-driven charts and visualizations
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
